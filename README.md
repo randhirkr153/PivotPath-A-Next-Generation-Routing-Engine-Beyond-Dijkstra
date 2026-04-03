@@ -83,22 +83,8 @@ C++ Engine (PivotPath Core)
 
 ---
 
-## 📂 Project Structure
-backend/
-├── main.py # FastAPI server
-├── requirements.txt
+<img width="597" height="334" alt="image" src="https://github.com/user-attachments/assets/b47279f9-4050-407f-8cbf-6367a91377ca" />
 
-engine/
-├── main.cpp # Core routing algorithms
-├── engine.exe # Compiled binary
-
-frontend/
-├── src/ # React components
-├── index.html
-├── package.json
-
-
----
 
 ## ▶️ How It Works
 
